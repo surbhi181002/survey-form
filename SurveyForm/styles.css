@@ -1,0 +1,45 @@
+html{
+    background-color:rgb(240, 239, 234);
+  }
+  form{
+    color:white;
+  }
+  header{
+    display:block;
+    text-align:center;
+  }
+  #title{
+    margin-top:55px;
+    text-align:center;
+  }
+  #description{
+    font-size:15px;
+    justify-content:space-evenly;
+  }
+  main{
+    display:flex;
+    border:solid;
+    justify-content:space-evenly;
+    margin-left:15%;
+    margin-right:15%;
+    background-color:rgb(32, 33, 94);
+    padding:25px 25px;
+  }
+  form{
+    margin-top:5px;
+  }
+  .submit{
+    margin-top:55px;
+    background-color:white;
+    text-align:center;
+  }
+  #submit{
+    border:none;
+    background-color:white;
+    color:black;
+    font-weight:bold;
+  }
+  #comment{
+    height:100px;
+    width:100%;
+  }
